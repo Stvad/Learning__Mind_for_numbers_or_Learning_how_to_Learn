@@ -55,11 +55,15 @@
     "extendRev": 50, 
     "media_files": [
         "paste-55495272431620.jpg", 
+        "paste-41029822578692.jpg", 
         "paste-55701430861828.jpg", 
+        "paste-57732950392836.jpg", 
         "paste-59618441035780.jpg", 
+        "paste-9234179686404.jpg", 
         "paste-46600395161604.jpg", 
         "paste-27895812587524.jpg", 
         "paste-41021232644100.jpg", 
+        "paste-64866891071492.jpg", 
         "paste-90696824389636.jpg", 
         "Octopus of attention.jpg"
     ], 
@@ -196,7 +200,8 @@
             "name": "Cloze [extra, source]", 
             "sortf": 0, 
             "tags": [
-                "lhtl"
+                "lhtl", 
+                "memory"
             ], 
             "tmpls": [
                 {
@@ -1910,6 +1915,1412 @@
             "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
             "tags": [
                 "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Unlike {{c1::procrastination, which is easy to fall into,}} {{c2::willpower is hard to come by}} because it uses a lot of neural resources.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "PpT{su9hKD", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Last thing you want to do in {{c1::tackling procrastination}} is to go around {{c2::spraying willpower on it}} like it’s cheap air freshener.", 
+                "You shouldn’t waste willpower on procrastination except when absolutely necessary!", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "/r0>*=(yl", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Imagine how your calf muscles would scream if you prepared for {{c1::a big race by waiting till midnight the night before your first marathon to do your first practice run}}. In just the same way, you can’t compete in math and science if you {{c2::just cram at the last minute}}.", 
+                "For most people, learning math and science depends on two things: brief study sessions where the neural “bricks” are laid, and time in between for the mental mortar to dry. This means that procrastination, a terribly common problem for many students, is particularly important for math and science students to master.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "c%yP+[.b<9", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Procrastination}} is a single, monumentally important {{c2::“keystone” bad habit}}.", 
+                "A habit, in other words, that influences many important areas of your life. Change it, and a myriad of other positive changes will gradually begin to unfold.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "vk1T<Tpj<2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The better you get at something}}, {{c2::the more you’ll find you enjoy it.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "tv*:RVv/[k", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"paste-9234179686404.jpg\" /><div>This is a {{c1::typical procrastination pattern. You think about something you don’t particularly like, and the pain centers of your brain light up}}. So you {{c2::shift and narrow your focus of attention to something more enjoyable. This causes you to feel better, at least temporarily.}}</div>", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "bJQ#Cqa=%@", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "We {{c1::procrastinate about things that make us feel uncomfortable}}. But what {{c2::makes us feel good temporarily isn’t necessarily good for us in the long run.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "yD_K}1CY-(", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Procrastination}} can be like {{c2::taking tiny amounts of poison}}. It may not {{c3::seem harmful at the time. But the long-term effects can be very damaging.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "wKG1@<oDh1", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Habit}} is an {{c2::energy saver}} for us. It allows us {{c3::to free our mind for other types of activities.}}", 
+                "An example of this is backing your car out of the driveway. The first time you do this, you are on hyper-alert. The deluge of information coming at you made the task seem almost impossibly difficult. But you quickly learned how to chunk this information so that before you knew it, all you have to do was think Let’s go , and you were backing out of the driveway. Your brain goes into a sort of zombie mode, where it isn’t consciously aware of everything it is doing.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "p[%2{<pV8(", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The point of the habit is that you {{c1::don’t think in a focused manner about what you are doing while you are performing the habit}}. It saves energy.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "fWvu9D)GlC", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The Habit Cue:}} {{c2::This is the trigger that launches you into “zombie mode.”}}&nbsp;", 
+                "The cue may be something as simple as seeing the first item on your to-do list (time to start next week’s homework!) or seeing a text message from a friend (time to dawdle!).", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "E.u#id`]H5", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "A cue by itself is {{c1::neither helpful nor harmful.}} It’s the {{c3::routine}} — {{c2::what we do in reaction to that cue}} — that matters.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "CB7i]W-ea", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The Habit Routine:}} {{c2::This is your zombie mode — the habitual response your brain is used to falling into when it receives the cue.}}&nbsp;", 
+                "Zombie responses can be harmless, useful, or, in the worst case, so destructive that they defy common sense.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "7w|&X5BV`", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The Habit Reward:}} Habits develop and continue because they {{c2::reward us — give us a dollop of pleasure.}}&nbsp;", 
+                "Procrastination is an easy habit to develop because the reward — moving your mind’s focus to something more pleasant — happens so quickly. But good habits can also be rewarded. Finding ways to reward good study habits in math and science is vital to escaping procrastination.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "vdt!bAMquP", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Procrastination is an {{c1::easy habit to develop}} because {{c2::the reward — moving your mind’s focus to something more pleasant — happens so quickly.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "DNiHh{t5=6", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Finding ways to {{c1::reward good study habits in math and science}} is {{c2::vital to escaping procrastination}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "CqKfG?I0l9", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::The Belief in Habit:}} {{c2::Habits have power because of your belief in them.&nbsp;}}", 
+                "For example, you might feel that you’ll never be able to change your habit of putting off your studies until late in the day. To change a habit, you’ll need to change your underlying belief.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "Mzq`Bk?n,F", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The only place {{c1::you need to apply willpower}} is {{c2::to change your reaction to the cue}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "LBrRB>/C3V", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cues usually fall into one of the following categories:&nbsp;<div>{{c1::1) location;}}</div><div>{{c2::2) time;&nbsp;}}</div><div>{{c3::3) how you feel;}}</div><div>{{c4::4) reactions to other people;}}</div><div>{{c5::5) something that just happened.}}</div>", 
+                "Do you look something up on the web and then find yourself web surfing? Does a text message disturb your reverie, taking you ten minutes to get back into the flow of things even when you try to keep yourself on task? The issue with procrastination is that because it’s an automatic habit, you are often unaware that you have begun to procrastinate.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "N(6d.=K@$k", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "You can prevent {{c1::the most damaging cues}} by {{c2::shutting off your cell phone or keeping yourself away from the Internet for brief periods of time}}, as when you are working on homework during a twenty-five-minute study session.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "wq&?$/q4b?", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It helps to {{c1::have something in your stomach}} when {{c2::starting particularly difficult tasks}}. This ensures that {{c3::you have mental energy for that momentary dollop of willpower}} as you are getting started.", 
+                "It also avoids the potential distraction of I’ll just go grab something to eat...", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "mes8wX4,QF", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Habits are powerful}} because they {{c2::create neurological cravings.}}", 
+                "It helps to add a new reward if you want to overcome your previous cravings.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "o-;3wYaQm/", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Only once your brain starts expecting the reward}} will the {{c2::important rewiring take place}} that will allow you to create new habits.&nbsp;", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "dBX?s0$MKI", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Simply {{c1::getting into the flow of your work can become its own reward,}} giving you a {{c2::sense of productiveness you might not have imagined was possible when you first sat down to begin working.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "jR)U<uCrhk", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::most important part of changing your procrastination habit}} is the {{c2::belief that you can do it.&nbsp;}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "Le<UX/oICU", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Developing an {{c1::encouraging culture with like-minded friends}} can help us {{c2::remember the values that, in moments of weakness, we tend to forget.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "yf<iR}[-||", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "A powerful approach is {{c1::mental contrasting}}. In this technique, you {{c2::think about where you are now and contrast it with what you want to achieve.}}&nbsp;", 
+                "achieve. If you’re trying to get into medical school, for example, imagine yourself as a doctor, helping others even as you’re preparing for a great vacation that you can actually afford. Once you’ve got that upbeat image in mind, contrast it with images of your current life . Imagine your clunker of a car, your macaroni and cheese dinners, and your mountain of student debts. Yet there’s hope!", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "AMfhFPwsiH", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What’s nice about doing a Pomodoro is that if {{c1::you’re working around friends or family, you can tell them about the technique}}. Then, if they {{c2::happen to interrupt you, all you need to do is mention that you’re “doing a Pomodoro” or “on the clock,” and it gives a friendly reason for them to leave you alone.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "N78-M-6JZ:", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If you learn {{c1::under mild stress}}, you can {{c2::handle greater stress much more easily.}}", 
+                "For example, as researcher Sian Beilock describes in her book Choke , golfers who practice putting in front of others aren’t fazed later on when they have to perform before an audience in competitions.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "OkU<QXX$aI", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "“One helpful tip is {{c1::to just get started.}} This advice sounds relatively simple, but {{c2::once you get off to a good start it is much easier to accomplish something.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "pl*cCnLFJ9", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the single most important pieces of advice I can give you on {{c2::dealing with procrastination}} is {{c1::to ignore distractions !}}", 
+                "Of course, setting yourself up so that distractions are minimal is also a good idea. Many students find that either a quiet space or noise-canceling headphones — or both — are invaluable when they are really trying to concentrate.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "AGouGIy(L+", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Quiet space or noise-canceling headphones — or both}} — are invaluable when {{c2::you are really trying to concentrate.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "A<}7:9L?Hn", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "By {{c1::focusing on process rather than product}}, you allow yourself to {{c2::back away from judging yourself ( Am I getting closer to finishing? )}} and {{c3::allow yourself to relax into the flow of the work.}}", 
+                "This helps prevent the procrastination that can occur not only when you are studying math and science, but when you are doing the writing that is so important for many different college classes.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "F]V|.6:yjp", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Multitasking}} is like {{c2::constantly pulling up a plant.}} This kind of constant shifting of your attention means that {{c3::new ideas and concepts have no chance to take root and flourish.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "sas,7Q$N4)", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you {{c1::multitask while doing schoolwork}}, you {{c2::get tired more quickly.}} Each tiny shift back and forth of attention siphons off energy.", 
+                "Although each attention switch itself seems tiny, the cumulative result is that you accomplish far less for your effort. You also don’t remember as well, you make more mistakes, and you are less able to transfer what little you do learn into other contexts.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "K`zuT>8RH7", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Procrastination often involves {{c1::becoming sidetracked on less essential little tasks, such as pencil sharpening}}, in part because {{c2::you can still feel the thrill of accomplishment.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "x3BZN@[e8)", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Practice {{c1::ignoring distractions}}. It is a far more powerful technique than {{c2::trying to will yourself to not feel those distractions in the first place.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "sN<%B5+%)S", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Be sure to schedule {{c1::free time to nurture your diffuse mode.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "t1~efLOR(m", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Mental contrasting}} is a powerful motivating technique — {{c2::think about the worst aspects of your present or past experiences}} and contrast these with {{c3::the upbeat vision of your future.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "kMD^w_*^]h", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Multitasking}} means {{c2::that you are not able to make full, rich connections in your thinking,}} because the part of your brain that helps make connections is {{c3::constantly being pulled away before neural connections can be firmed up.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "d53mEiOfT2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "We {{c1::trick ourselves into doing what we ought to be doing}}. To a great degree, the highest-performing people I know are those who {{c2::have installed the best tricks in their lives}}. The {{c3::smart part of us sets up things for us to do}} that {{c4::the not-so-smart part responds to almost automatically}}, creating behavior that produces high-performance results.", 
+                "Allen is referring to tricks like wearing exercise clothes to help him get into the mood for exercising or placing an important report by the front door so he can’t miss it.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "w*y>Vxjx94", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Putting yourself in new surroundings}} — such as the quiet section of a library, which {{c2::has few interrupting cues}} — can {{c3::work wonders with procrastination.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "P$wPXAHg2L", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Researchers have found that the difference between slow and fast starters is that the nonprocrastinating fast starters {{c1::put their negative thinking aside,}} saying things to themselves like, {{c2::“Quit wasting time and just get on with it. Once you get it going, you’ll feel better about it.”}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "rH3G(M9Nvw", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Self-experimentation}} can be used by non-experts to (a) {{c2::see if the experts are right and}} (b) {{c3::learn something they don’t know.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "J^N0o[kZe=", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Self-experimentation}} is extremely helpful in {{c2::testing ideas as well as in generating and developing new hypotheses.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "sG}R6C)J$B", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The best way for you to {{c1::gain control of your habits}} is simple: {{c2::Once a week, write a brief weekly list of key tasks.}} Then, {{c3::each day, write a list of the tasks that you can reasonably work on or accomplish.}}", 
+                "Try to write this daily task list the evening before. Why the day before? Research has shown this helps your subconscious to grapple with the tasks on the list so you figure out how to accomplish them. 9 Writing the list before you go to sleep enlists your zombies to help you accomplish the items on the list the next day.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "MkDX8$qFgu", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"paste-41029822578692.jpg\" /><div>If you don’t write your tasks down in a list, {{c1::they lurk at the edge of the four-or-so slots in your working memory, taking up valuable mental real estate.}} But once you make a task list, {{c2::it frees for problem solving.}}</div>", 
+                "But remember, you must absolutely trust that you will check your planner-journal. If your subconscious doesn’t trust you to do that, tasks will begin swirling back up, blocking your working memory.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "p<*K}29FfC", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "“{{c1::Eat your frogs first thing in the morning.}}” {{c2::Do the most important and most disliked jobs first, as soon as you wake up.}} This is incredibly effective.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "jg~,6B7G*A", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It’s important to {{c1::transform distant deadlines into daily ones}}. Attack them bit by bit. Big tasks {{c2::need to be translated into smaller ones that show up on your daily task list.}} The only way to walk a journey of a thousand miles is to take one step at a time.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "pVOo/p*KF{", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Just planning how you will implement what you need to do}} makes it far more likely {{c2::that you will succeed in the task.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "H.%YA,I~+g", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Weekly to-do list}} can help you to {{c2::calmly step back, look at the big picture, and set priorities.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "E~+5]pd%d7", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "People who {{c1::make a habit of getting their work done in binges}} are {{c2::much less productive overall}} than those who generally {{c3::do their work in reasonable, limited stints}}. {{c4::Staying in the zone too long will send you toward burnout.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "DBl@&@{KO1", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Getting a grip on habits of procrastination}} means {{c2::acknowledging that something that feels painful at the moment can ultimately be healthy}}. Overcoming your urge to procrastinate shares much in common with {{c3::other minor stressors that are ultimately beneficial.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "jY[af<w4Dx", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Pausing and reflecting}} are key, not only in {{c2::stopping procrastination}} but in {{c3::math and science problem solving}} in general.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "v#`+SHnwHF", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Pausing}} gives you time {{c2::to access your library of chunks}} and a{{c3::llows your brain to make connections between a particular problem and the bigger picture.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "Q4a7M,H,X}", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "“Follow your passion” may be like deciding to marry your favorite movie star. {{c1::It sounds great until reality rears its head.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "m[>A0xmQ%o", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Over the past decades, {{c1::students who have blindly followed their passion, without rational analysis of whether their choice of career truly was wise}}, have been more unhappy with their job choices {{c2::than those who coupled passion with rationality.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "kxs`E2&=pI", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "We {{c1::develop a passion}} for {{c2::what we are good at}}.", 
+                "The mistake is thinking that if we aren’t good at something, we do not have and can never develop a passion for it.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "zg[Q|SeSIK", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Accomplishing a lot of difficult tasks}} is like {{c2::eating a salami}}. You {{c3::go slice by slice — bit by bit}}. Cheer every accomplishment, even the tiniest ones. You’re moving ahead!", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "Py6VX5DjAU", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If your {{c1::attention is easily divided}}, you especially will benefit from tools that help {{c2::keep you focused on a specific task for a short period of time}}.&nbsp;", 
+                "These tools include a planner-journal, a whiteboard by your door, a timer, and scheduling and timing apps and programs on your smartphone or computer.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "k5hh<FlGc?", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It’s worth reemphasizing that world-class experts in a variety of disciplines reveal that {{c1::their path to expertise wasn’t easy}}. They {{c2::slogged through some tedious, difficult times to get to their current level of expertise}} where they can glide by and make it all look easy.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "AJ]k{=*W96", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Memorization of key facts is essential}} since it is these facts {{c2::that form the seeds for the creative process of chunking}}!", 
+                "The important lesson is that we must continue jiggling and playing mentally with things we have memorized in order to form chunks.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "b?!sp-axRS", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The memory tricks used by both ancient and modern memory experts taps into {{c1::naturally supersized visuospatial memorization abilities}}.", 
+                "Our ancestors never needed a vast memory for names or numbers. But they did need a memory for how to get back home from the three-day deer hunt, or for the location of the plump blueberries on the rocky slopes to the south of camp. These evolutionary needs helped lock in superior “where things are and how they look” memory systems.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "NuqXMQv`wp", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::evolutionary influences of our ancestral environment}} helped to lock in superior {{c2::\"where things are and how they look”}} memory systems.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "i.aXuJm1c", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The more {{c1::neural hooks you can build by evoking the senses}}, the {{c2::easier it will be for you to recall the concept and what it means.}}", 
+                "<div><img src=\"paste-57732950392836.jpg\" /></div>For the example of the flying mule and formula F = m*a.&nbsp;Beyond merely seeing the mule, you can smell the mule and feel the same windy pressure the mule is feeling. You can even hear the wind whistling past. The funnier and more evocative the images, the better.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "FE&VZo-IkD", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::memory palace technique}} involves calling to mind a {{c2::familiar place — like the layout of your house}} — and using it as {{c3::a sort of visual notepad where you can deposit concept-images}} that you want to remember.", 
+                "All you have to do is call to mind a place you are familiar with: your home, your route to school, or your favorite restaurant.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "l81Fzo!L~u", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::memory palace}} technique is useful for {{c2::remembering unrelated items, such as a grocery list.}}", 
+                "Say your list is milk, bread and eggs.To use the technique, you might imagine a gigantic bottle of milk just inside your front door, the bread plopped on the couch, and a cracked egg dribbling off the edge of the coffee table. In other words, you’d imagine yourself walking through a place you know well, coupled with shockingly memorable images of what you might want to remember.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "gF-SP0Hp|*", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Even speeches and presentations — those occasionally petrifying do-or-die experiences — can become much easier when you realize {{c1::that potentially memorable images can help the key concepts you want to speak about stay in mind.}} All you need to do is {{c2::tie the essential ideas you want to talk about to memorable images.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "bzSm/yL~X)", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "By {{c1::using more areas of the brain while learning}}, we {{c2::build stronger memory patterns, weaving a tighter web that is less likely to be forgotten}} during the stress.", 
+                "For example, in anatomy lab, students should pick up the anatomy models, close their eyes, feel each structure, and say the name of each part out loud. You can skip the senses of smell and taste . . . gotta draw the line somewhere!”", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "lo1EN)P?9J", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Learning to {{c1::use your memory in a more disciplined, yet creative manner}} helps you learn {{c2::to focus your attention, even as you create wild, diffuse connections that build stronger memories.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "qdHo$3oRku", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "By {{c1::memorizing material you understand}}, you can {{c2::internalize the material in a profound way}}. And you are {{c3::reinforcing the mental library you need to become a genuine master}} of the material.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "r:C?R?o@Xd", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the best things you can do to {{c1::not only remember but understand concepts in math and science}} is to {{c2::create a metaphor or analogy for it}} —often, the more visual, the better.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "Mc;q}+n{kd", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It’s often helpful to pretend you are {{c1::the concept you are trying to understand.}}", 
+                "Put yourself in an electron’s warm and fuzzy slippers as it burrows through a slab of copper, or sneak inside the x of an algebraic equation and feel what it’s like to poke your head out of the rabbit hole (just don’t let it get exploded with an inadvertent “divide by zero”).", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "cbEh.<]mc9", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Metaphors are never perfect}}. But then, {{c2::all scientific models are just metaphors}}, which means they also break down at some point.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "NF^IjXcb9`", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Metaphors (and models!) are {{c1::vitally important in giving a physical understanding of the central idea behind the mathematical or scientific process or concept}} that you are trying to understand.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "A+i7r^)H:G", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Metaphors also {{c1::help glue an idea in your mind}}, because they {{c2::make a connection to neural structures that are already there.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "J0D:_f?T;w", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If there’s a time when {{c1::you can’t think of a metaphor}}, just put a pen or pencil in your hand and a sheet of paper in front of you. Whether using words or pictures, you will often be amazed at {{c2::what just noodling about for a minute or two}} will bring.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "vT6.;5`gRk", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Focusing your attention {{c1::brings something into your temporary working memory}}. But for that “something” {{c2::to move from working memory to long-term memory}}, two things should happen: the idea should be {{c3::memorable ( there’s a gigantic flying mule braying f = ma on my couch! )}}, and it must be {{c4::repeated}}. Otherwise, your natural metabolic processes, like tiny vampires, simply suck away faint, newly forming patterns of connections.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "yLww$]_KC5", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><img src=\"paste-64866891071492.jpg\" /></div>If you don’t make a point of {{c1::repeating what you want to remember}}, your “metabolic vampires” can {{c2::suck away the neural pattern related to that memory}} before it can strengthen and solidify.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "G?r#KvSTK;", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Repetition is important}}; even when {{c2::you make something memorable}}, {{c3::repetition helps get that memorable item firmly lodged in long-term memory.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "pg-_b%sNAd", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "You will want to {{c1::say the word and its meaning aloud,}} to start {{c2::setting auditory hooks to the material.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "mwZ,bRC[!G", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "By {{c1::increasing your [repetition] spacing}} as you become more certain of mastery, you will {{c2::lock the material more firmly into place.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "qXei<Pa#Kf", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the best ways to {{c1::remember people’s names}} is to simply {{c2::try to retrieve the people’s names from memory at increasing time intervals}} after first learning the name.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "F9f**jQ7M/", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Another key to memorization is to {{c1::create meaningful groups that simplify the material.}}", 
+                "Let’s say you wanted to remember four plants that help ward off vampires—garlic, rose, hawthorn, and mustard. The first letters abbreviate to GRHM, so all you need to do is remember the image of a GRAHAM cracker. (Retrieve", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "O<qSPfinlL", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Using {{c1::mental pictures instead of words to remember things}}, you can {{c2::leap more easily into expert status}}. In other words, {{c3::learning to process ideas visually}} in math and science is a {{c4::powerful way to become a master of the material .}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "t>}ffx6M[`", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Imaging research on how people become experts shows that such memory tools {{c1::speed up the acquisition of both chunks and big-picture templates,}} helping transform novices to semiexperts much more quickly — even in a matter of weeks.&nbsp;{{c2::Memory tricks allow people to expand their working memory with easy access to long term memory.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "wj%za<JC_V", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Also, when you're using this techniques, the {{c1::memorization process itself becomes an exercise in creativity}}. The more you memorize using these innovative techniques, the more creative you become. This is because {{c2::you are building wild, unexpected possibilities for future connections early on}}, even as you are first internalizing the ideas.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "G?/foIt#+o", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::more you practice using this type of “memory muscle\"}}, the {{c2::more easily you will be able to remember.}}", 
+                "Where at first it may take fifteen minutes to build an evocative image for an equation and embed it in, say, the kitchen sink of your memory palace, it can later take only minutes or seconds to perform a similar task.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "bG+$jFG=j(", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "As you {{c1::begin to internalize key aspects of the material}}, taking a little time to commit the most important points to memory, you {{c2::come to understand it much more deeply.}}", 
+                "The formulas will mean far more to you than they would if you simply looked them up in a book. And you’ll be able to sling those formulas around more proficiently on tests and in real-world applications.", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "Kt%U9mHETE", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::most important part of your memorization practices}} is {{c2::to understand what the formulas and solution steps really mean.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "pD,e%*}%d,", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
             ]
         }
     ]
