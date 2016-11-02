@@ -1,0 +1,1916 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "43545a5a-a0df-11e6-b5d6-8c705a50cbf0", 
+    "deck_config_uuid": "a69dd698-6d5b-11e6-adf3-8c705a50cbf0", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "a69dd698-6d5b-11e6-adf3-8c705a50cbf0", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "paste-55495272431620.jpg", 
+        "paste-55701430861828.jpg", 
+        "paste-59618441035780.jpg", 
+        "paste-46600395161604.jpg", 
+        "paste-27895812587524.jpg", 
+        "paste-41021232644100.jpg", 
+        "paste-90696824389636.jpg", 
+        "Octopus of attention.jpg"
+    ], 
+    "name": "Learning::Mind for numbers or Learning how to Learn", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "3f777d8e-7ce7-11e6-9a05-8c705a50cbf0", 
+            "css": ".card {\n font-familiy: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Source", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic [reversed, extra, source]", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    1, 
+                    "all", 
+                    [
+                        1
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n<br>\n<br>\n{{Extra}}\n<br>\n<a href=\"{{text:Source}}\">{{Source}}</a>", 
+                    "bafmt": "", 
+                    "bfont": "Arial", 
+                    "bqfmt": "", 
+                    "bsize": 12, 
+                    "did": null, 
+                    "name": "Front first", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}\n\n<br>\n<br>\n{{Extra}}\n<br>\n<a href=\"{{text:Source}}\">{{Source}}</a>", 
+                    "bafmt": "", 
+                    "bfont": "Arial", 
+                    "bqfmt": "", 
+                    "bsize": 12, 
+                    "did": null, 
+                    "name": "Back first", 
+                    "ord": 1, 
+                    "qfmt": "{{Back}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Source", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze [extra, source]", 
+            "sortf": 0, 
+            "tags": [
+                "lhtl"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n<br><br>\n{{Extra}}\n<br>\n<a href=\"{{text:Source}}\">{{Source}}</a>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Prime your mental pump", 
+                "Prime your mind for topic at hand by skimming through material (looking at pictures, headings, highlights, questions) to organize your thought and improve learning.", 
+                "<div>As you first begin looking at a chapter or section of a book that teaches concepts of math or science, it helps to take a “picture walk” through the chapter, glancing not only at the graphics, diagrams, and photos, but also at the section headings, summary, and even questions at the end of the chapter, if the book has them. This seems counterintuitive—you haven’t actually read the chapter yet, but it helps prime your mental pump. So go ahead now and glance through this chapter and the questions at the end of the chapter.</div><div>You’ll be surprised at how spending a minute or two glancing ahead before you read in depth will help you organize your thoughts. You’re creating little neural hooks to hang your thinking on, making it easier to grasp the concepts.</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 36.4."
+            ], 
+            "flags": 0, 
+            "guid": "ykHtaZN:J{", 
+            "note_model_uuid": "3f777d8e-7ce7-11e6-9a05-8c705a50cbf0", 
+            "tags": [
+                "habits", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Deliberately shift between {{c1::focused}} and {{c2::\"diffused\"}} modes in order to {{c3::improve your learning/problem solving}}", 
+                "<div>The idea is to have a highly focused period followed by diffused period in order to be able to process idea/problem more efficiently from various standpoints.</div><div>You need to focus on something initially, so your brain has something to work with when it goes into diffused mode (otherwise it will work on something else).</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "MD:lKuOK}<", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habits", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Sustained aerobic exercise increases {{c1::adult neurogenesis (growth of new neurons) }} in the brain (specifically: {{c2::hippocampus}})", 
+                "It may be possible to increase the neuron reserve of the hippocampus – and thus improve preconditions for learning – by promoting neurogenesis via sustained aerobic exercise such as running.", 
+                "https://www.ncbi.nlm.nih.gov/m/pubmed/26844666/"
+            ], 
+            "flags": 0, 
+            "guid": "evR@%lQ{uw", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "exercise", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Einstellung effect", 
+                "<div>A phenomenon, when an idea you already have in mind, or your simple initial thought, prevents a better idea or solution from being found.</div>", 
+                "<div>So sometimes you need to unlearn some things you've already learned before you can learn new things.</div><div>Deliberately switching to \"diffuse\" mode of thinking (taking pause, switching to the different task, taking a nap) can help you overcame this problem.</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 45.9"
+            ], 
+            "flags": 0, 
+            "guid": "s{e,8Cqd&x", 
+            "note_model_uuid": "3f777d8e-7ce7-11e6-9a05-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Focused mode of thinking", 
+                "Being in focused mode mean that you can more easily think a precise thought. Basically, the focused mode is used to concentrate on something that’s already tightly connected in your mind, often because you are familiar and comfortable with the underlying concepts.", 
+                "<div>In the game “pinball,” a ball, which represents a thought, shoots up from the spring-loaded plunger to bounce randomly against rows of rubber bumpers. These two pinball machines represent focused (left) and diffuse (right) ways of thinking. The focused approach relates to intense concentration on a specific problem or concept. But while in focused mode, sometimes you inadvertently find yourself focusing intently and trying to solve a problem using erroneous thoughts that are in a different place in the brain from the “solution” thoughts you need to actually need to solve the problem.</div><div>As an example of this, note the upper “thought” that your pinball first bounces around in on the left-hand image. It is very far away and completely unconnected from the lower pattern of thought in the same brain. You can see how part of the upper thought seems to have an underlying broad path. This is because you’ve thought something similar to that thought before. The lower thought is a new thought—it doesn’t have that underlying broad pattern.</div><div>The diffuse approach on the right often involves a big-picture perspective. This thinking mode is useful when you are learning something new. As you can see, the diffuse mode doesn’t allow you to focus tightly and intently to solve a specific problem—but it can allow you to get closer to where that solution lies because you’re able to travel much farther before running into another bumper.</div><div><img src=\"paste-46600395161604.jpg\" /></div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 45.9", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "OU1b3tqlKc", 
+            "note_model_uuid": "3f777d8e-7ce7-11e6-9a05-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Diffuse mode of thinking", 
+                "This mode of thinking allows the brain to look at the world from a much broader perspective. Can you see how a thought can travel much further before it runs into a bumper? The connections are further apart—you can quickly zoom from one clump of thought to another that’s quite far away. (Of course, it’s hard to think precise, complex thoughts while in this mode.)<div><br /></div><div>If you are trying to understand or figure out something new, your best bet is to turn off your precision-focused thinking and turn on your “big picture” diffuse mode, long enough to be able to latch on to a new, more fruitful approach.</div>", 
+                "<div>In the game “pinball,” a ball, which represents a thought, shoots up from the spring-loaded plunger to bounce randomly against rows of rubber bumpers. These two pinball machines represent focused (left) and diffuse (right) ways of thinking. The focused approach relates to intense concentration on a specific problem or concept. But while in focused mode, sometimes you inadvertently find yourself focusing intently and trying to solve a problem using erroneous thoughts that are in a different place in the brain from the “solution” thoughts you need to actually need to solve the problem.</div><div>As an example of this, note the upper “thought” that your pinball first bounces around in on the left-hand image. It is very far away and completely unconnected from the lower pattern of thought in the same brain. You can see how part of the upper thought seems to have an underlying broad path. This is because you’ve thought something similar to that thought before. The lower thought is a new thought—it doesn’t have that underlying broad pattern.</div><div>The diffuse approach on the right often involves a big-picture perspective. This thinking mode is useful when you are learning something new. As you can see, the diffuse mode doesn’t allow you to focus tightly and intently to solve a specific problem—but it can allow you to get closer to where that solution lies because you’re able to travel much farther before running into another bumper.</div><div><img src=\"paste-46600395161604.jpg\" /></div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 47.3", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "E7>I-UOxd%", 
+            "note_model_uuid": "3f777d8e-7ce7-11e6-9a05-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you are consciously thinking of a problem this mode of thinking is active.", 
+                "The focused thinking mode.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 59.1", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "F7TwAe([vW", 
+            "note_model_uuid": "3f777d8e-7ce7-11e6-9a05-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>You can compare learning to to {{c1::exercise}}. Constantly {{c2::lifting weights}} won’t make your muscles any bigger — your muscles {{c3::need time to rest and grow}} before you use them again. Taking time off between weight sessions helps build strong muscles in the long run. The same goes for learning: for better results you should {{c4::alternate perioud of high focus/concentration}} with {{c5::periods spent in diffuse mode}}. Consistency over time is key!</div>", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 71.3"
+            ], 
+            "flags": 0, 
+            "guid": "j,A%q=]X)]", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you're stuck while {{c1::solving a problem or trying to understand new concept}} - {{c2::take a break}} ({{c3::switch to diffuse mode to let your mind do background processing}}).", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley."
+            ], 
+            "flags": 0, 
+            "guid": "P;!^%6J%#I", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Figuring out a {{c1::difficult problem or learning a new concept}} almost always requires one or more periods when you {{c2::aren’t consciously working on the problem}}", 
+                "Each interlude in which you are not directly focused on the problem allows your diffuse mode to look at it in a fresh way. When you turn your focused attention back to the problem, you consolidate new ideas and patterns that the diffuse mode has delivered.", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 75.7"
+            ], 
+            "flags": 0, 
+            "guid": "F7,s0.;>y2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Each interlude in which you are {{c1::not directly focused on the problem}} allows your {{c2::diffuse mode to look at it in a fresh way}}. When you {{c3::turn your focused attention back to the problem}}, you {{c4::consolidate new ideas and patterns}} that the diffuse mode has delivered.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 75.7"
+            ], 
+            "flags": 0, 
+            "guid": "n?[RD6D!1x", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The resting times between your focused-mode efforts should be {{c1::long enough to get your conscious mind completely off the problem}} you’re working on. Usually a {{c2::few hours}} is long enough for the {{c3::diffuse mode to make significant progress}} but not so long that its insights fade away before being passed on to the focused mode. A good rule of thumb, when you are first learning new concepts, is {{c4::not to let things go untouched for longer than a day}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 77.7"
+            ], 
+            "flags": 0, 
+            "guid": "yJUa,SFGYe", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "People with {{c1::strong self-control}} can have the {{c2::most difficulty in getting themselves to turn off their focused mode}} so that the diffuse mode can begin its work.", 
+                "After all, they’ve been successful because sometimes they could keep going when others flagged. If you often find yourself in this situation, you can use another trick. <b>Make it a rule to listen to study partners, friends, or loved</b> ones who can sense when you are becoming dangerously frustrated. Sometimes it’s easier to listen to someone else than to yourself. (When my husband or children, for example, tell me to stop working with a buggy piece of software, I follow this rule myself, albeit always begrudgingly at the time.)", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 79.4"
+            ], 
+            "flags": 0, 
+            "guid": "k2,nW3).H&", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Working memory}} is the part of memory that has to do with what you are {{c2::immediately and consciously processing}} in your mind.", 
+                "It used to be thought that our working memory could hold around seven items, or “chunks,” but it’s now widely believed that the working memory holds only about four chunks of information. (We tend to automatically group memory items into chunks, so it seems our working memory is bigger than it actually is.)", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 82.4"
+            ], 
+            "flags": 0, 
+            "guid": "E{&ZyMJAhW", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Generally, {{c1::you can hold about four items in your working memory}}, as shown in the four-item memory on the left. When you {{c2::master a technique or concept}} in math or science, it occupies less space in your working memory. This {{c3::frees your mental thinking space}} so that it can more easily grapple with other ideas, as shown on the right.<div><img src=\"paste-55701430861828.jpg\" /></div><div><br /></div>", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 83"
+            ], 
+            "flags": 0, 
+            "guid": "e2W{SLWJls", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The next time {{c1::you are tackling a tough problem}}, work on it for a few minutes. When {{c2::you get stuck}}, {{c3::move on to another problem}}. Your diffuse mode can {{c4::continue working on the tougher problem in the background}}. When you later {{c5::return to the tougher problem}}, you will often be pleasantly surprised by the progress you’ve made.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 85.3"
+            ], 
+            "flags": 0, 
+            "guid": "rm9;FIK45m", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::During sleep,}} your brain also {{c2::rehearses some of the tougher parts}} of whatever you are trying to learn — {{c3::going over and over neural patterns}} to {{c4::deepen and strengthen them}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 87.3"
+            ], 
+            "flags": 0, 
+            "guid": "NZS:IA79;7", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of things that special sleep-time tidying does is {{c1::erase trivial aspects of memories}} and simultaneously {{c2::strengthen areas of importance}}.&nbsp;", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 87.3"
+            ], 
+            "flags": 0, 
+            "guid": "zuNL~$2|sP", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you {{c1::are learning new concepts}}, you want to {{c2::review the material within a day}} so that {{c3::the initial changes you made in your brain don’t fade away}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 90"
+            ], 
+            "flags": 0, 
+            "guid": "I!OlXj|:[K", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Creativity is {{c1::a numbers game}}: The best predictor of {{c3::how many creative works we produce}} in our lifetime is . . . {{c2::the number of works we produce}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 92"
+            ], 
+            "flags": 0, 
+            "guid": "J}_E,[ia=d", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Criticism makes us better}}: By {{c2::exposing our work to others}}, and by {{c3::externalizing it so we can inspect it ourselves}}, we {{c4::gain unique perspective and insight}} and {{c5::develop new and improved plans}} for the next version of whatever we're doing.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 92"
+            ], 
+            "flags": 0, 
+            "guid": "h^#V*Fw~AD", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "There is a {{c1::negative correlation between the level of creativity and “agreeableness,”}} so those {{c2::who are the most disagreeable tend to be most creative}}. Looking back at the few times when I found something novel, it was because {{c3::I challenged the existing answers}}. So I believe the creative way is advanced whenever we strip a problem back to its roots and {{c4::question our own assumptions (along with assumptions suggested by others)}}; then repeat!", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley. Page 92"
+            ], 
+            "flags": 0, 
+            "guid": "e(${I[m&IF", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It's quite common to {{c3::get stuck on a problem}} - often because {{c4::you have initial ideas about what the solution should be that block your ability to see the real solution}}. If you've already {{c5::spent time reanalyzing the problem by focusing intently}}, and you find that you are simply stuck, next best steps would be to:<div>{{c2::Switch your attention to something completely different, or even better, go for a walk or take a shower - anything that allows your mind to relax and dart randomly around.}}</div><div>{{c1::If it is toward the end of the day and you are already tired, go to sleep and try again in the morning.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "u9%;reP&O[", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "problem-solving"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>To use the {{c1::Pomodoro}} technique, you want to ensure that, as much as possible, you {{c2::remove all distractions and temptations that might bother or distract you}} during the time you are working.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "l+Lra0FjA8", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Giving yourself a little reward}} at the end of your \"Pomodoro\" is an important part of the Pomodoro technique.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "Qr67`Z.,`H", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>In {{c1::diffuse}} the mode, the brain makes {{c2::random connections}} in a relaxed fashion.￼</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "y/l~&W!P%0", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Research has shown that if you {{c1::try to glue things into your memory by repeating something twenty times in one evening}}, for example, it won’t stick nearly as well as if you {{c2::practice it the same number of times over several days}}.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "Dw.3zsJquu", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Repetition}} is needed so your metabolic vampires — natural dissipating processes — {{c2::don’t suck the memories away}}.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "hlJ$A[zNbX", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::focused}}&nbsp;mode involves a {{c2::direct}} approach to solving problems using {{c3::rational, sequential, analytical approaches}}. It is associated with the {{c4::concentrating abilities of the brain’s prefrontal cortex}}, located right behind your forehead.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/CtdDH/what-is-learning"
+            ], 
+            "flags": 0, 
+            "guid": "e-I5rVjH[", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "thinking"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Transfer}} is the idea that a {{c2::chunk you’ve mastered in one area}} can often help you much more easily learn {{c3::chunks of information in different areas}} that can share surprising commonalities.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "D+.`4)/0FY", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Chunks {{c1::can help you understand new concepts}}. This is because when you grasp one chunk, you will find that that {{c2::chunk can be related in surprising ways to similar chunks not only in that field, but also in very different fields.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "e+fc@d}Q>u", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Improvising a new sentence in a new language}} you are learning involves the ability to {{c2::creatively mix together various complex minichunks and chunks}} (sounds and words) that you have mastered in the new language.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "Js|93]n^/S", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the first steps toward {{c1::gaining expertise in academic topics}} is to {{c2::create conceptual chunks}} — {{c3::mental leaps that unite scattered bits of information through meaning.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "z?tL$l2g@j", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::When you are stressed}}, your \"attentional octopus\" begins to {{c2::lose the ability to make connections}}. This is why your brain doesn’t seem to work right when you’re {{c3::angry, stressed, or afraid.}}", 
+                "<img src=\"Octopus of attention.jpg\" />", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "mbAK^e2z3t", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Focusing your \"octopus of attention\"}} to connect parts of the brain to tie together ideas is an {{c2::important part of the focused mode of learning}}. It is also often what helps get you started in {{c3::creating a chunk.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "q@1TBJc>Ka", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "There are three steps that are vitally important in making a chunk:<div>1) {{c1::Focused attention.}}</div><div>2) {{c2::Understanding of the basic idea.}}</div><div>3)&nbsp;{{c3::Practice to help you gain mastery and a sense of the big-picture context.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "P_xA+AkB)E", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::\"Deliberate practice\"}} is when you apply {{c2::special extra attention in practicing the material that you find to be the most difficult.}} This is the type of practice that experts use to speed up their knowledge gain.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "FB^t9C8@a<", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you are learning something new {{c1::there's a<b> bottom up chunking process</b>,}} where {{c2::practice and repetition can help you both build and strengthen each chunk,}} so you can easily access it whenever you need to. And there is also a sort of a {{c3::<b>top down big picture process</b>}} that allows you to {{c4::see what you are learning and where it fits in}}. Both processes are vital in gaining mastery over the material. {{c5::\"<b>Context</b>\" is where bottom up and top down learning meet.}}", 
+                "<img src=\"paste-90696824389636.jpg\" />", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "AL/0,}_IV8", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::bigger and more well-practiced your chunked mental library}} — whatever the subject you are learning — the more easily you will be able to {{c2::solve problems and figure out solutions.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "E^2+M&Qcoz", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>The ability to {{c1::combine chunks in new and original ways}} underlies a lot of historical innovation.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "k6|.D9x0<(", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Basically, what people do to {{c1::enhance their knowledge and gain expertise}} is to {{c2::gradually build the number of chunks in their mind}} — valuable bits of information that they can piece together in new and creative ways.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "A=6L!/K5u", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Chunks can help you understand new concepts.}} This is because when you grasp one chunk, you will find that that {{c2::chunk can be related in surprising ways to similar chunks not only in that field, but also in very different fields.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "t3M*wLL%<+", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Interleaving your studies}} — making a point to review for a test, for example, by {{c2::skipping around through problems in the different chapters and materials}} — can sometimes seem to make your learning more difficult. But in reality, it helps you {{c3::learn more deeply.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "Fz-~O0Ne,3", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Once you’ve {{c1::got the basic idea down during a session,}} continuing to hammer away at it during the same session {{c2::doesn’t strengthen the kinds of long-term memory connections you want to have strengthened.}} Worse yet, {{c3::focusing on one technique}} is a little like {{c4::learning carpentry by only practicing with a hammer.}} After a while, you think you can fix anything by just bashing it.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "MoM]r5,l|M", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Although {{c1::practice and repetition are important}} in helping build {{c2::solid neural patterns to draw on}}, it’s {{c3::interleaving}} that s{{c4::tarts building flexibility and creativity}}. It’s where you {{c5::leave the world of practice and repetition and begin thinking more independently.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "mrckX)3QZB", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One significant mistake students sometimes make in learning is {{c1::jumping into the water before they learn to swim}}. In other words, they {{c2::blindly start working on homework}} without reading the textbook, attending lectures, viewing online lessons, or speaking with someone knowledgeable. It’s like randomly allowing a {{c3::thought to pop off in the focused-mode pinball machine}} without paying any real attention to where the solution truly lies.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/qWWF2/chunking"
+            ], 
+            "flags": 0, 
+            "guid": "A4kYf;!.>V", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the first steps toward {{c1::gaining expertise in math and science}} is to {{c2::create conceptual chunks}} — {{c3::mental leaps that unite separate bits of information through meaning}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "LOQGw68cM0", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Chunking the information you deal with {{c1::helps your brain run more efficiently}}. Once you chunk an idea or concept, you {{c2::don’t need to remember all the little underlying details}}; you’ve got the main idea—the chunk—and that’s enough.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "J?1TJ&z5[i", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><img src=\"paste-27895812587524.jpg\" /></div>{{c1::Chunking (right)}} is the mental leap that helps you {{c2::unite bits of information together through meaning}}. The new logical whole makes the chunk {{c3::easier to remember}}, and also makes it easier to {{c4::fit the chunk into the larger picture}} of what you are learning.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Cul4U7@Y*-", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The first step in chunking is: {{c1::to simply focus your attention on the information you want to chunk.}}", 
+                "If you have the television going in the background, or you’re looking up every few minutes to check or answer your phone or computer messages, it means that you’re going to have difficulty making a chunk, because your brain is not really focusing on the chunking. When you first begin to learn something, you are making new neural patterns and connecting them with preexisting patterns that are spread through many areas of the brain.&nbsp;<div>Your octopus tentacles can’t make connections very well if some of them are off on other thoughts.</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "m=I]fWo_=*", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The second step in chunking is {{c1::to understand the basic idea you are trying to chunk.}} {{c2::Understanding}} is like a {{c3::superglue that helps hold the underlying memory traces together}}. It creates broad, encompassing traces that link to many memory traces.", 
+                "Can you create a chunk if you don’t understand? Yes, but it’s a useless chunk that won’t fit in with other material you are learning.<div>That said, it’s important to realize that just understanding how a problem was solved does not necessarily create a chunk that you can easily call to mind later . Do not confuse the “aha!” of a breakthrough in understanding with solid expertise! (That’s part of why you can grasp an idea when a teacher presents it in class, but if you don’t review it fairly soon after you’ve first learned it, it can seem incomprehensible when it comes time to prepare for a test.)</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "P4T.W|m5%f", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The third step to chunking is {{c1::gaining context so you see not just how, but also when to use this chunk.}}", 
+                "Context means going beyond the initial problem and seeing more broadly, repeating and practicing with both related and unrelated problems so you see not only when to use the chunk, but when not to use it. This helps you see how your newly formed chunk fits into the bigger picture. In other words, you may have a tool in your strategy or problem-solving toolbox, but if you don’t know when to use that tool, it’s not going to do you a lot of good. Ultimately, practice helps you broaden the networks of neurons connected to your chunk, ensuring that it is not only firm, but also accessible from many different paths.&nbsp;", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "oBm&3BJd:|", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "There are chunks related to both {{c1::concepts}} and {{c2::procedures}} that reinforce one another. Solving a lot of math problems provides an opportunity {{c3::to learn why the procedure works the way it does or why it works at all}}. {{c4::Understanding the underlying concept}} makes it easier to {{c5::detect errors when you make them.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "xn&kPq~$5m", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Skimming through a chapter or listening to a very well-organized lecture}} can allow you to {{c2::gain a sense of the big picture}}. This can help you know {{c3::where to put the chunks you are constructing.}}", 
+                "<div><img src=\"paste-41021232644100.jpg\" /></div>Learn the major concepts or points first — these are often the key parts of a good instructor or book chapter’s outline, flow charts, tables, or concept maps. Once you have this done, fill in the details. Even if a few of the puzzle pieces are missing at the end of your studies, you can still see the big picture.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "ofIELChMNv", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Learn {{c1::the major concepts or points first}} — these are often {{c2::the key parts of a good instructor or book chapter’s outline, flow charts, tables, or concept maps.}} Once you have this done, fill in the details. Even if a few of the puzzle pieces are missing at the end of your studies, you can still see the big picture.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "y<r!vO=-bK", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Attempting to recall the material}} you are trying to learn — {{c2::retrieval practice}} — is {{c3::far more effective than simply rereading the material}}.", 
+                "Psychologist Jeffrey Karpicke and his colleagues have shown that many students experience illusions of competence when they are studying. Most students, Karpicke found, “repeatedly read their notes or textbook (despite the limited benefits of this strategy), but relatively few engage in self-testing or retrieval practice while studying.” When you have the book (or Google!) open right in front of you, it provides the illusion that the material is also in your brain. But it’s not. Because it can be easier to look at the book instead of recalling, students persist in their illusion — studying in a far less productive way.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "n;zHkj7R!c", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Intention to learn}} is helpful only if it leads to the {{c2::use of good learning strategies}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "eDy/-.)}8|", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When {{c1::marking up the text}}, train yourself to look for main ideas before making any marks, and {{c2::keep your text markings to a minimum}} — one sentence or less per paragraph.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "EE3hd{K4iK", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Using {{c1::recall — mental retrieval}} of the key ideas — rather than {{c2::passive rereading}} will make your study time more focused and effective.", 
+                "The only time rereading text seems to be effective is if you let time pass between rereadings so that it becomes more of an exercise in spaced repetition.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "?>#?,`Z~B", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"paste-55495272431620.jpg\" /><div>When you are first chunking a concept, its pre-chunked parts {{c1::take up all your working memory,}} as shown on the left. As you begin to chunk the concept, you will feel it {{c3::connecting more easily and smoothly in your mind}}, as shown in the center. {{c2::Once the concept is chunked}}, as shown at the right, {{c2::it takes up only one slot in working memory.}} It simultaneously becomes one smooth strand that is {{c4::easy to follow and use to make new connections}}. The rest of your working memory is left clear.</div>", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "PsjIOWRLLv", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "You must have {{c1::information persisting in your memory}} if you are to {{c2::master the material well enough to think creatively with it}}.", 
+                "The ability to combine chunks in novel ways underlies much of historical innovation. Steven Johnson, in his brilliant book Where Good Ideas Come From , describes the “slow hunch” — the gentle, years-long simmering of focused and diffuse processes that has resulted in creative breakthroughs ranging from Darwin’s evolutionary theory to the creation of the World Wide Web. Key to the slow hunch is simply having mental access to aspects of an idea. That way, some aspects can tentatively and randomly combine with others until eventually, beautiful novelty can emerge.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "kLZiHTMu7g", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Bill Gates and other industry leaders, Johnson notes, {{c1::set aside extended, weeklong reading periods}} so that they can {{c2::hold many and varied ideas in mind}} during one time. This {{c3::fosters their own innovative thinking}} by allowing fresh-in-mind, not-yet-forgotten ideas to {{c4::network among themselves.}}&nbsp;", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Qa0iIcc.w4", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::bigger your chunked mental library}}, the {{c2::more easily you will be able to solve problems.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "b||c;fK^%2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Most difficult problems}} are solved {{c2::through intuition}}, because they {{c3::make a leap away from what you are familiar with}}.", 
+                "Keep in mind that the diffuse mode’s semi-random way of making connections means that the solutions it provides with should be carefully verified using the focused mode. Intuitive insights aren’t always correct!", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "m[meN=@|d(", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::In building a chunked library}}, you are training your brain to {{c2::recognize not only a specific problem}}, but {{c3::different types ˙and classes of problems}} so that you can automatically know how to quickly solve whatever you encounter.&nbsp;", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "vKJU|I:1E9", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If you {{c1::don’t understand a method}} presented in a course you are taking, {{c2::stop and work backward}}. Go to the Internet and {{c3::discover who first figured out the method or some of the earliest people to use it.}} Try to understand {{c4::how the creative inventor arrived at the idea and why the idea is used}} — you can often find a simple explanation that gives a basic sense of why a method is being taught and why you would want to use it.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "q?ol}wU2hj", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div><img src=\"paste-59618441035780.jpg\" /></div>{{c1::Solving problems in math and science}} is like {{c2::playing a piece on the piano}}. The {{c3::more you practice,}} {{c4::the firmer, darker, and stronger your mental patterns become.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "xE-,SfImHk", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Mathematics is amazingly compressible}}: you may struggle a long time, step by step, {{c2::to work through the same process or idea from several approaches}}. But once you {{c3::really understand it and have the mental perspective to see it as a whole}}, there is often a {{c4::tremendous mental compression}}. You can {{c5::file it away, recall it quickly and completely}} when you need it, and use it as {{c6::just one step in some other mental process.}} The insight that goes with this compression is one of the real joys of mathematics.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "E)6]BPE6If", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "You {{c1::can’t learn mathematics or science}} without {{c2::including a healthy dose of practice and repetition}} to {{c3::help you build the chunks that will underpin your expertise.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Q.so_nIXR-", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Recalling material when you are outside your usual place of study}} helps you {{c2::strengthen your grasp of the material by viewing it from a different perspective.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "IoG/q3`0$Y", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "recall"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Interleaving}} means {{c2::practice by doing a mixture of different kinds of problems requiring different strategies.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "cCQW^jS:-^", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Interleaving", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "You want your brain to become used to the idea that {{c1::just knowing how to use a particular problem-solving technique isn’t enough}} — you also {{c2::need to know when to use it.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "o^{~(MQ|t;", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Interleaving", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Practice {{c4::retelling people what you're learning/working on.}} It helps {{c1::fuel and share your own enthusiasm}} and {{c2::clarifies and cements the ideas in your mind}}, so {{c3::you’ll remember them better}} in the weeks and months to come.&nbsp;", 
+                "Even if what you are studying is very advanced, simplifying so you can explain to others who do not share your educational background can be surprisingly helpful in building your understanding.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "uo0SnfG]Tc", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "communication", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c3::Internalizing problem-solving techniques}} enhances the neural activity that allows you to {{c4::more easily hear the whispers of your growing intuition}}. Once you start working on a {{c1::math or science problem}}, you’ll notice that {{c2::each step you complete signals the next step to you}}.", 
+                "&nbsp;", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "yL{02bi!h5", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The way in which musicians improve their ability to play an instrument can also be applied to learning math in this sense: A master violinist, for example, {{c1::doesn’t just play a musical piece from beginning to end, over and over again}}. Instead, she {{c2::focuses on the hardest parts of the piece}} — {{c3::the parts where the fingers fumble and the mind becomes confused}}. You should be like that in your own {{c4::deliberate practice}}, focusing and becoming quicker at the {{c5::hardest parts of the solution procedures}} you are trying to learn.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "dq7t=~T/sv", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "practice"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The phenomenon of {{c1::knowledge collapse}} is a period during you learning process {{c2::when you experience sudden regress in your level of comprehension of the material}}. This periods seems to occur when {{c3::your mind is restructuring its understanding}} — building a more solid foundation.", 
+                "Remember — it takes time to assimilate new knowledge. You will go through some periods when you seem to take an exasperating step backward in your understanding. This a natural phenomenon that means your mind is wrestling deeply with the material. You’ll find that when you emerge from these periods of temporary frustration, your knowledge base will take a surprising step forward.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Rg-hAS2CO]", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Choking — panicking to the point where you freeze}} — can happen when {{c2::your working memory is filled to capacity, yet you still don’t have enough room for the additional critical pieces you need to solve a problem.}}", 
+                "Chunking compresses your knowledge and makes room in your working memory for those pieces so you don’t go into mental overload so easily. Also, by making more room in your working memory, you have a better chance of remembering important problem-solving details.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "z3,JO,^mrO", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Testing in itself is a powerful learning experience}}. It {{c2::changes and adds to what you know}}, also {{c3::making dramatic improvements in your ability to retain the material.}}", 
+                "This improvement in knowledge because of test taking is called the testing effect . It seems to occur because testing strengthens and stabilizes the related neural patterns in your brain.&nbsp;", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "w[cS/5*_0u", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "By {{c1::building your library of chunks}}, with {{c2::plenty of active practicing at retrieving material over and over again, and testing your recall}}, you are using some of the best methods possible for learning deeply and well.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Bpo(Zo#,sL", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl", 
+                "recall"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Chunking}} means {{c2::integrating a concept into one smoothly connected neural thought pattern.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "dBP-u!t6YD", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl", 
+                "recall"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Chunking}} helps {{c2::increase the amount of working}} memory {{c2::you have available}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "EiI#V(*cyY", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "chunking", 
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::You guarantee failure if you don’t try}}, but those {{c2::who consistently give it a good effort}} will experience many more successes.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "t-1546<VQF", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The habit has 4 parts:<div>{{c1::1)&nbsp;The cue}}</div><div>{{c2::2)&nbsp;The routine}}</div><div>{{c3::3) The reward}}</div><div>{{c4::4)&nbsp;The belief}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "tH4tc}9J<e", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "habit", 
+                "lhtl", 
+                "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It is perfectly normal to {{c1::start with a few negative feelings about beginning a learning session}} — even when it’s a {{c2::subject you ordinarily like.}} It’s how you handle those feelings that matters.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "nls<1;U7SZ", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>When {{c1::procrastination is an issue}}, your challenge sometimes is {{c2::to avoid focusing on the product.}} The {{c3::PRODUCT}} is what {{c4::triggers the pain that causes you to procrastinate}}.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "AVlrBi?zd", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl", 
+                "procrastination"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Planning your {{c1::quitting time}} is as important as planning your {{c3::working time.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "o>V>~XUa21", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Interleave}} your learning by {{c2::alternating your practice with different types of problems}} - don't waste study time by {{c3::simply repeating the same technique over and over again.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "bl9h}W4c&#", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Procrastination}} often involves {{c2::shifting your focus away from something you find uncomfortable.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "r%>([b|s},", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Zombie mode}} refers to the {{c2::relaxed state your mind enters when you are performing common and habitual tasks}}.&nbsp;</div>", 
+                "Examples of zombie states and habitual behavior include riding a bike, getting dressed in the morning, and being able to back your car out of a driveway (if you are familiar and comfortable with driving).", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "OJ8}V)Rm-%", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::\"Product\"}} refers to the outcome of a task. Examples of {{c1::\"product\"}} include {{c2::finishing a homework set or completing the writing of a report.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "Q8B5,-#wKE", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::Pomodoro}} technique is effective because {{c2::it helps you get into the flow of the process.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "n^A3%#w~7K", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Making your task list is best done at {{c1::night before you go to sleep}} because research has shown that {{c2::it helps to enlist your zombies (subconscious processes) to process the list}}, making them easier to get through the items on that list the next day.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "pzyZYvoJ#6", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Pay attention for {{c1::procrastination cues}} and {{c2::remove yourself from environments that contain many distractions and procrastination cues.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "E5H6x+>BfB", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Distractions {{c1::sometimes arise despite our best efforts}}. In that case, it's best to {{c2::not get annoyed by the distraction, but to instead just let it drift by and get right back to your work.}}</div><div><br /></div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "C2AvE?N00s", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Repetition is important}}; even when you {{c2::make something memorable,}} {{c1::repetition}} helps get that memorable item {{c3::firmly lodged in long term memory}}. Remember to {{c1::repeat}} — not a bunch of times in one day, but sporadically over several days.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "rBevc0D8uJ", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "We have {{c1::outstanding visual and spatial memory systems}} that {{c2::help form part of our long term memory.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "r*tFFxC!_k", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "To begin tapping into your {{c1::visual memory system}}, try making a very {{c2::memorable visual image representing one key item you want to remember}}.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "A!bTW``us", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Memory palace}} allows you to {{c2::tap into your visual and spatial memory abilities}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "g]gb_5M=xe", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Memory palace}} can help you create a {{c2::meaningful (if sometimes memorably strange!) group from otherwise unrelated items.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "DbDHaS}F$@", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Whenever you {{c1::reactivate a memory,}} the memory changes, a process called {{c2::reconsolidation}}. It is even possible to {{c3::implant false memories,}} indistinguishable from old ones, by suggestion and imagination, especially in children who have vivid imaginations.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "w[~nA#5<Q+", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Long term memories}} are {{c2::living parts of your brain that change each time you access them}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "BvFu4O?S#h", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Long term memories}} are subject to modification by a process called {{c2::\"reconsolidation.\"}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "w~7lo3rp^g", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Handwriting}} appears to help you to {{c2::more deeply encode (that is, convert into neural memory structures) what you are trying to learn.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "Ga[}:fY#1p", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>To {{c1::prevent procrastination}}, you want to {{c2::avoid concentrating on product.}} Instead, your attention should be on {{c3::building processes.}} {{c4::Processes relate to simple habits}} — habits that coincidentally allow you to do the unpleasant tasks that need to be done.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "j[_egV?|1F", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>It's best to avoid procrastination by applying willpower at {{c1::only one small point}} - {{c2::your reaction to a procrastination cue}}. This is because {{c3::willpower is actually a valuable mental resource}} and you don't want to be using it up unnecessarily.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "IN:9l[dPV>", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Procrastination}} can be triggered by {{c2::feelings of discomfort involving something you'd rather not be doing - discomfort that can actually show up in the brain as feelings of physical pain.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "t)zjNx>u(0", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Process}} means the {{c2::flow of time and the habits and actions associated with that flow of time}} — as in, “I’m going to spend twenty minutes working\"</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/exam/Pm7aM/procrastination-and-memory"
+            ], 
+            "flags": 0, 
+            "guid": "D3L4K*zNv&", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }
+    ]
+}
