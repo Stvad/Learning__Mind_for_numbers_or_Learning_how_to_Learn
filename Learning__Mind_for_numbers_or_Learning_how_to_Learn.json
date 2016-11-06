@@ -55,6 +55,7 @@
     "extendRev": 50, 
     "media_files": [
         "paste-55495272431620.jpg", 
+        "paste-82652350644228.jpg", 
         "paste-41029822578692.jpg", 
         "paste-55701430861828.jpg", 
         "paste-57732950392836.jpg", 
@@ -200,8 +201,7 @@
             "name": "Cloze [extra, source]", 
             "sortf": 0, 
             "tags": [
-                "lhtl", 
-                "memory"
+                "lhtl"
             ], 
             "tmpls": [
                 {
@@ -1031,7 +1031,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "The second step in chunking is {{c1::to understand the basic idea you are trying to chunk.}} {{c2::Understanding}} is like a {{c3::superglue that helps hold the underlying memory traces together}}. It creates broad, encompassing traces that link to many memory traces.", 
+                "The second step in chunking is {{c1::to understand the basic idea you are trying to chunk.}} {{c1::Understanding}} is like a {{c2::superglue that helps hold the underlying memory traces together}}. It creates broad, encompassing traces that link to many memory traces.", 
                 "Can you create a chunk if you don’t understand? Yes, but it’s a useless chunk that won’t fit in with other material you are learning.<div>That said, it’s important to realize that just understanding how a problem was solved does not necessarily create a chunk that you can easily call to mind later . Do not confuse the “aha!” of a breakthrough in understanding with solid expertise! (That’s part of why you can grasp an idea when a teacher presents it in class, but if you don’t review it fairly soon after you’ve first learned it, it can seem incomprehensible when it comes time to prepare for a test.)</div>", 
                 "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
             ], 
@@ -3321,6 +3321,1101 @@
             "tags": [
                 "lhtl", 
                 "memory"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>The best {{c1::study sessions with others}} {{c2::start on time, stay on task and contain a bare minimum of small talk in order to focus on the purpose for the gathering}}. The time for play is after the work is done.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "w^G^/~[tgn", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Sometimes you {{c1::can blindly believe you’ve got everything nailed down intellectually, but you haven’t}}. This is one reason it is sometimes {{c2::good to study with others.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "nn5}IKrh&O", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Self-testing during studies}} is very effective, you may {{c2::learn and retain more in one hour of testing than you would if you spent one hour studying.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "JZ!ngz_7{r", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Tests during study sessions}} are good for {{c2::concentrating the mind.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "Q]Ss2F{Ef&", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>When {{c1::stressed before a test,}} you should {{c2::turn your attention to your breathing.}} Taking {{c2::deep breaths}} can {{c3::</div><div>control your stress level and fight the \"fight or flight\" instinct.</div><div></div>}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "D!TwS/]WO[", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One way to {{c2::look in a fresh way at what you have done during a test}} is to {{c3::check your answers from back to front.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "zs$8X*`d!&", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>During the test, try to {{c1::momentarily shift your attention away from the test questions}} and then {{c2::go back through the questions with a ‘big picture’}} perspective.</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "kn?sXdMXW^", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Metaphors and analogies, as well as stories,}} can sometimes be useful for {{c2::getting people out of Einstellung — being blocked by thinking about a problem in the wrong way.}}</div><div><br /></div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "iCQc6[qXH7", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::Metaphors and visualization — being able to see something in your mind’s eye}} — have been especially helpful, not only in art and literature, but also in {{c2::allowing the scientific and engineering world to make progress.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "lW[1%um`IK", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Two experiences that {{c1::help your neurons to grow and survive}} are {{c2::exercise}} and {{c3::exposure to new environments or ideas.}}&nbsp;", 
+                "Travel via a new route is example of the new environment.<div>Learning something new can be an example of exposing yourself to new ideas.</div>", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "w?OJ]uV#ED", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Santiago Ramon y Cajal felt that the key to his success was his {{c1::perseverance}}, which he called \"{{c2::the virtue of the less brilliant.}}\"&nbsp;", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "soG7%v6N9z", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Dreaming about what you are studying}} can substantially enhance your ability to understand — it somehow {{c2::consolidates your memories into easier-to-grasp chunks.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "jw-NjGX*7N", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Taking a test {{c1::without getting enough sleep}} means you are operating with a brain {{c2::that’s got poisons that make it so you can’t think very clearly.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "HL1y+@K$m;", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Merely {{c1::glancing at a solution and thinking you truly know it yourself}} is one of the most common {{c2::illusions of competence}} in learning.", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "lKPiulq~pP", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>A helpful way to make sure {{c1::you’re learning, and not fooling yourself with illusions of competence}}, is to {{c2::TEST yourself on what you’re learning}}. In some sense, that’s {{c3::what recall is actually doing}} — allowing you to see {{c4::whether or not you really grasped an idea.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "OL9;IF=mEJ", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the easiest ways to {{c1::focus on process}} is to focus on {{c2::doing a Pomodoro — a twenty-five-minute timed work session}}. (Do NOT focus on completing a task.)", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "Eop.n]Cjg<", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When learning something for the first time, try to {{c1::make the concept or idea into something memorable}} like {{c2::associating it with an object or a funny picture in your mind.&nbsp;}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "Dh(,X/q2c+", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Making vivid pictures}} is an outstanding method for {{c2::helping you to more easily recall the material.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "r@.O3#[lT*", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Memory techniques such as the {{c1::memory palace}} allow you to {{c2::develop and use your creativity}} because you are using such {{c3::unexpected and unusual scenarios for internal connections later on.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "o*#z6X(vI&", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::A metaphor}} is just a way of realizing {{c2::that one thing is somehow similar to another.}} {{c1::Metaphors}} are never perfect, but they can be vitally important in {{c3::giving a physical understanding of the central idea behind the process or concept that you are trying to understand.}}</div>", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "L[}2uoOPke", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "By making it a point to do {{c1::some of your studying with friends,}} you can more {{c2::easily catch where your thinking has gone astray.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "cu1qqr,0@)", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Study groups are a {{c1::good way to bounce ideas and concepts off of another brain}} in order to {{c2::look at ideas from different view-points and further cement study material in your memory.}}", 
+                "", 
+                "https://www.coursera.org/learn/learning-how-to-learn/quiz/the7Y/retrieval-practice"
+            ], 
+            "flags": 0, 
+            "guid": "d%Nu;i5?De", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The {{c1::greater understanding}} results from the fact that {{c2::your mind constructed the patterns of meaning}}, rather than {{c3::simply accepting what someone else has told you.}}", 
+                "Remember — people learn by trying to make sense out of information they perceive. They rarely learn anything complex simply by having someone else tell it to them.&nbsp;", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "B4#La0C[q{", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "People learn {{c1::by trying to make sense out of information they perceive.}} They rarely learn anything complex simply {{c2::by having someone else tell it to them}}.&nbsp;", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Q%zPxgE;ul", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Once you understand {{c1::why you do something in math and science,}} you {{c2::shouldn’t keep reexplaining the how}} . Such overthinking can lead to choking.</div><div><img src=\"paste-82652350644228.jpg\" /></div>", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "pZ=]`/I&fV", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It is typical for [chess] grand masters to {{c1::spend at least a decade practicing and studying}} to {{c2::learn thousands of memory chunk patterns.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "kWiV0^7j|M", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It is the {{c1::practice}} — particularly {{c1::deliberate practice on the toughest aspects of the material}} — that can help {{c2::lift average brains into the realm of those with more “natural” gifts.}}", 
+                "Just as you can practice lifting weights and get bigger muscles over time, you can also practice certain mental patterns that deepen and enlarge in your mind.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "wDHjg@VuBX", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "At some point, after {{c1::you’ve got chunked material well in hand (and in brain)}}, you start to {{c2::let go of conscious awareness of every little detail and do things automatically.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "eh/-=Yp.AN", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Part of the {{c1::key to creativity}} is to be able to {{c2::switch from full focused concentration to the relaxed, daydreamy diffuse mode.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "f:IR`gVn?A", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Practice appears to {{c1::strengthen and reinforce connections between different brain regions,}} creating highways between the {{c2::brain’s control centers and the centers that store knowledge.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "bTnEx@0lpq", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "We can {{c1::make significant changes in our brain}} by {{c2::changing how we think.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "jF)z,Jkzpo", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Good chunks form neural patterns that {{c1::resonate, not only within the subject we’re working in, but with other subjects and areas of our lives}}. {{c2::The abstraction}} helps you {{c3::transfer ideas from one area to another.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "bkFvqH>uZT", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Once we {{c1::have created a chunk as a neural pattern,}} we can more easily {{c2::pass that chunked pattern to others}}, as Cajal and other great artists, poets, scientists, and writers have done for millennia.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "M$9%b6%n(_", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Metaphors and physical analogies}} also form chunks that can {{c2::allow ideas even from very different areas to influence one another.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Lh@<hn$HA<", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One important key to learning swiftly in math and science is {{c1::to realize that virtually every concept you learn has an analogy — a comparison — with something you already know.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "vMOZhk}im0", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Brains mature at different speeds.}} Many people {{c2::do not develop maturity until their midtwenties.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "sVxAeU|;O2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "There are {{c1::hidden meanings in equations,}} just as there are in poetry.", 
+                "If you are a novice looking at an equation in physics, and you’re not taught how to see the life underlying the symbols, the lines will look dead to you. It is when you begin to learn and supply the hidden text that the meaning slips, slides, then finally leaps to life.", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "BA>k4E_rze", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Physicists can see with their mind’s eye {{c1::the meaning beneath the equation}}, including how {{c2::it fits into the big picture}}, and even a sense of {{c3::how the parts of the equation feel .}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "rI4[%W]LLb", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Symbols and equations, in other words, {{c1::have a hidden text that lies beneath them — a meaning that becomes clear once you are more familiar with the ideas.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "LXQ}6C{P*c", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "One of the most important things we can do when we are trying to learn math and science is to {{c1::bring the abstract ideas to life in our minds.}}", 
+                "Santiago Ramón y Cajal, for example, treated the microscopic scenes before him as if they were inhabited by living creatures that hoped and dreamed just as people themselves do.<div>And Einstein was able to imagine himself as a photon&nbsp;moving at the speed of light, then imagined how a second photon might perceive him. What would that second photon see and feel?</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "mPtP}&Qgi7", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It may seem silly to {{c1::stage a play in your mind’s eye and imagine the elements and mechanisms you are studying as living creatures, with their own feelings and thoughts.}} But it is {{c2::a method that works — it brings them to life and helps you see and understand phenomena that you couldn’t intuit}} when looking at dry numbers and formulas.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "xQtnO~{Z=$", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you {{c1::cultivate simple explanations by breaking down complicated material to its key elements}}, the result is that {{c2::you have a deeper understanding of the material.}}", 
+                "Learning expert Scott Young has developed this idea in what he calls the Feynman technique , which asks people to find a simple metaphor or analogy to help them grasp the essence of an idea.&nbsp;", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "vwu|mb*o7<", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "You’ll be surprised to see how often {{c1::understanding arises as a consequence of attempts to explain to others and yourself}}, rather than the {{c2::explanation arising out of your previous understanding.}}", 
+                "This is why teachers often say that the first time they ever really understood the material was when they had to teach it.", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "gnw>vV{d.G", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Students who {{c1::interrupt their work constantly}} not only don’t learn as deeply, but also {{c2::aren’t able to transfer what little they do learn as easily to other topics.}}", 
+                "You may think you’re learning in between checking your phone messages, but in reality, your brain is not focusing long enough to form the solid neural chunks that are central to transferring ideas from one area to another.", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "J0.I)(!aoV", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Equations are just {{c1::ways of abstracting and simplifying concepts}}. This means that equations {{c2::contain deeper meaning, similar to the depth of meaning found in poetry.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "eA1e7aWN@|", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Your “mind’s eye” is important because it can help you {{c1::stage plays and personalize what you are learning about.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "MWhnjtyTn@", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "It’s important to {{c1::grasp the chunked essence of a mathematical concept,}} because then it’s easier to {{c2::transfer and apply that idea in new and different ways.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "HvgqJfmj]c", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Persistence}} is often more important than {{c2::intelligence}}.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "J_-v[p]@N[", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::Approaching material with a goal of learning it on your own}} gives you a {{c1::unique path to mastery}}. Often, no matter how good your teacher and textbook are, it’s only when {{c3::you sneak off and look at other books or videos}} that you begin to see that {{c4::what you learn through a single teacher or book is a partial&nbsp;version of the full, three-dimensional reality of the subject, which has links to still other fascinating topics that are of your choosing.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "vRN=:$p0Wo", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Research has shown that {{c1::students learn best when they themselves are actively engaged in the subject}} instead of {{c2::simply listening to someone else speak.}}", 
+                "A student’s ability to grapple personally with the material, sometimes bouncing it off fellow learners, is key.", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "dzJC4i4u[:", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Taking responsibility for your own learning}} is one of the most important things you can do.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "Gx|nTnGbB&", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Truly great teachers {{c1::make the material seem both simple and profound}}, {{c2::set up mechanisms for students to learn from each other}}, and {{c3::inspire students to learn on their own.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "PzK5wG|QUZ", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Failure is not so terrible.}} Analyze {{c2::what you did&nbsp;wrong}} and use it {{c3::to correct yourself to do better in the future.}} Failures are {{c4::better teachers than successes because they cause you to rethink your approach.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "xDg@grrCaL", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Learning on your own}} is one of the deepest, most effective ways to approach learning because {{c2::It improves your ability to think independently.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "L6M07H3SK{", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Train yourself to {{c1::occasionally reach out to people you admire.}} You can {{c2::gain wise new mentors who, with a simple sentence, can change the course of your future}}. But use your teachers’ and mentors’ time sparingly.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley"
+            ], 
+            "flags": 0, 
+            "guid": "GEEfk!acIt", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "There’s a great deal of evidence from research that the right hemisphere helps us {{c1::step back and put our work into big-picture perspective.}}", 
+                "People with damage to the right hemisphere are often unable to gain “aha!” insights.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "d(`FuD(SBY", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "In some sense, when you {{c1::whiz through a homework or test problem and don’t go back to check your work}}, you are acting a little {{c2::like a person who is refusing to use parts of your brain.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "kReY]z|Ggc", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you {{c1::work in focused mode}}, it is easy {{c2::to make minor mistakes in your assumptions or calculations.}} If you {{c3::go off track early on}}, {{c4::it doesn’t matter if the rest of your work is correct — your answer is still wrong.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "oe@8$F`E?f", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When you {{c1::step back and recheck}}, you are {{c2::allowing for more interaction between hemispheres}} — taking advantage of the special perspectives and abilities of each.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "b,,dd|5&+P", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "“The first principle is {{c1::that you must not fool yourself}} — and {{c2::you are the easiest person to fool}}.” Richard Feynman.", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "oVv6>XshVl", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Your naively upbeat focused mode can {{c1::skip right over errors, especially if you’re the one who committed the original errors.}}", 
+                "Worse yet, sometimes you can blindly&nbsp;believe you’ve got everything nailed down intellectually, but you haven’t.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "vtWhD2?13F", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Friends and teammates}} can serve as a sort of {{c2::ever-questioning, larger-scale diffuse mode, outside your own brain}}, that can {{c3::catch what you missed, or what you just can’t see}}. And of course, as mentioned earlier, {{c4::explaining to friends helps build your own understanding.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "H,N|pQG`Z]", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The focused mode can {{c1::allow you to make critical errors even though you feel&nbsp;confident you’ve done everything correctly}}. {{c2::Rechecking your work}} can allow you to {{c3::get a broader perspective on it, using slightly different neural processes that can allow you to catch blunders.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Qo#^g&&.#h", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Working with others who aren’t afraid to disagree}} can:&nbsp;<div>{{c2::1) Help you catch errors in your thinking.&nbsp;}}</div><div>{{c3::2) Make it easier for you to think on your feet and react well in stressful situations.}}</div><div>{{c4::3) Improve your learning by ensuring that you really understand what you are explaining to others and reinforcing what you know.&nbsp;}}</div><div>{{c5::4) Build important career connections and help steer you toward better choices.}}</div>", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "F0p9c92{48", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Criticism in your studies,}} whether you are giving or receiving it, shouldn’t be taken as being about you. {{c2::It’s about what you are trying to understand.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "k:=t+~2Wix", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c3::Equations}} are {{c1::NOT merely expressions you plug numbers into to get other numbers}}. {{c3::Equations}} {{c2::tell a story about how the physical world works.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "u<mM8f_O=i", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "If you {{c1::write about your thoughts and feelings about an upcoming test immediately before you take the test,}} it can {{c2::lessen the negative impact of pressure on performance.}}", 
+                "\"We think that writing helps to release negative thoughts from mind, making them less likely to pop up and distract you in the heat of the moment.\" by Sian Beilock", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "p`ud:&Az,2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Surprisingly, you wouldn’t want {{c1::to eliminate stress altogether}}, because a {{c2::little stress can help you perform at your best when it matters most.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "Pd.o}|}0]E", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Sometimes, as we’ve discovered, your desire to {{c1::figure things out right now}} is what {{c2::prevents you from being able to figure things out.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "qoNO5p3PA3", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Our {{c1::growing understanding of how the mind truly learns}} is helping us move past the {{c2::simplistic idea that memorization is always bad}}. We now know that {{c3::deep, practiced internalization of well-understood chunks is essential to mastering math and science.}}", 
+                "", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "z4$0GZg}Re", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "TEN RULES OF GOOD STUDYING<div>{{c1::1. Use recall.}}</div><div>{{c2::2. Test yourself.}}</div><div>{{c3::3. Chunk your problems.}}</div><div>{{c4::4. Space your repetition.}}</div><div>{{c5::5. Alternate different problem-solving techniques during your practice.}}</div><div>{{c6::6. Take breaks.}}</div><div>{{c7::7. Use explanatory questioning and simple analogies.}}</div><div>{{c8::8. Focus.}}</div><div>{{c9::9. Eat your frogs first.}}</div><div>{{c10::10. Make a mental contrast.}}</div>", 
+                "1. Use recall. After you read a page, look away and recall the main ideas. Highlight very little, and never highlight anything you haven’t put in your mind first by recalling. Try recalling main ideas when you are walking to class or in a different room from where you originally learned it. An ability to recall—to generate the ideas from inside yourself—is one of the key indicators of good learning.&nbsp;<div>2. Test yourself. On everything. All the time. Flash cards are your friend.&nbsp;</div><div>3. Chunk your problems. Chunking is understanding and practicing with a problem solution so that it can all come to mind in a flash. After you solve a problem, rehearse it. Make sure you can solve it cold—every step. Pretend it’s a song and learn to play it over and over again in your mind, so the information combines into one smooth chunk you can pull up whenever you want.&nbsp;</div><div>4. Space your repetition. Spread out your learning in any subject a little every day, just like an athlete. Your brain is like a muscle—it can handle only a&nbsp;limited amount of exercise on one subject at a time.</div><div>5. Alternate different problem-solving techniques during your practice. Never practice too long at any one session using only one problem-solving technique—after a while, you are just mimicking what you did on the previous problem. Mix it up and work on different types of problems. This teaches you both how and when to use a technique. (Books generally are not set up this way, so you’ll need to do this on your own.) After every assignment and test, go over your errors, make sure you understand why you made them, and then rework your solutions. To study most effectively, handwrite (don’t type) a problem on one side of a flash card and the solution on the other. (Handwriting builds stronger neural structures in memory than typing.) You might also photograph the card if you want to load it into a study app on your smartphone. Quiz yourself randomly on different types of problems. Another way to do this is to randomly flip through your book, pick out a problem, and see whether you can solve it cold.&nbsp;</div><div>6. Take breaks. It is common to be unable to solve problems or figure out concepts in math or science the first time you encounter them. This is why a little study every day is much better than a lot of studying all at once. When you get frustrated with a math or science problem, take a break so that another part of your mind can take over and work in the background.&nbsp;</div><div>7. Use explanatory questioning and simple analogies. Whenever you are struggling with a concept, think to yourself, How can I explain this so that a ten-year-old could understand it? Using an analogy really helps, like saying that the flow of electricity is like the flow of water. Don’t just think your explanation—say it out loud or put it in writing. The additional effort of&nbsp;speaking and writing allows you to more deeply encode (that is, convert into neural memory structures) what you are learning.</div><div>8. Focus. Turn off all interrupting beeps and alarms on your phone and computer, and then turn on a timer for twenty-five minutes. Focus intently for those twenty-five minutes and try to work as diligently as you can. After the timer goes off, give yourself a small, fun reward. A few of these sessions in a day can really move your studies forward. Try to set up times and places where studying—not glancing at your computer or phone—is just something you naturally do.&nbsp;</div><div>9. Eat your frogs first. Do the hardest thing earliest in the day, when you are fresh.&nbsp;</div><div>10. Make a mental contrast. Imagine where you’ve come from and contrast that with the dream of where your studies will take you. Post a picture or words in your workspace to remind you of your dream. Look at that when you find your motivation lagging. This work will pay off both for you and those you love!</div>", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "FbjY9lGtY2", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Alternate {{c1::different problem-solving techniques}} during your practice.", 
+                "Never practice too long at any one session using only one problem-solving technique—after a while, you are just mimicking what you did on the previous problem. Mix it up and work on different types of problems. This teaches you both how and when to use a technique.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "o9i?yx{?;J", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Whenever you are struggling with a concept, use {{c1::explanatory questioning and simple analogies}} to gain insight and understand it deeper.", 
+                "Think to yourself, \"How can I explain this so that a ten-year-old could understand it?\" Using an analogy really helps, like saying that the flow of electricity is like the flow of water.", 
+                "\"A Mind For Numbers\" by Barbara Oakley.&nbsp;"
+            ], 
+            "flags": 0, 
+            "guid": "rPyE82>98^", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "lhtl"
             ]
         }
     ]
